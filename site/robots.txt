@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://burattom.github.io/ai-tool-guide/sitemap.xml
-Sitemap: https://burattom.github.io/ai-tool-guide/en/sitemap.xml
+Sitemap: https://ai-tool-guide-26.github.io/ai-tool-guide/sitemap.xml
+Sitemap: https://ai-tool-guide-26.github.io/ai-tool-guide/en/sitemap.xml
