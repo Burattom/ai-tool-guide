@@ -5,8 +5,12 @@ A8.net の既存ノウハウ（`A8-afiliate/`）を横展開しつつ、**日本
 
 ## 現ステータス
 
-- フェーズ：**調査完了／サイト未構築**
+- フェーズ：**サイト公開済み／SEO設定中**
 - 調査日：2026-11-26（二軸化：2026-11-26）
+- 公開URL：https://burattom.github.io/ai-tool-guide/ ／ 英語版 https://burattom.github.io/ai-tool-guide/en/
+- リポジトリ：https://github.com/Burattom/ai-tool-guide
+- 新Gmail：**aitoolguide26@gmail.com**（PW：`AiTool2026!Guide#9Kp`、表示名：AI Tool Guide）
+- 新GitHub：**ai-tool-guide-26**（`ai-tool-guide` は登録時に利用不可だったため `-26` を付与）
 - 運用拠点：**日本在住・日本から運用**（海外 residency を前提とする案件は除外）
 
 ## 二軸の定義
@@ -26,6 +30,14 @@ A8.net の既存ノウハウ（`A8-afiliate/`）を横展開しつつ、**日本
 | `docs/02-programs.md` | 4象限別の紹介料プログラム一覧／除外案件／受取・税務 |
 | `docs/03-site-plan.md` | 二軸サイト設計・記事構成・KPI・既存ノウハウの再利用 |
 | `docs/sources.md` | 調査元URLと確認日 |
+
+## 公開済みページ
+
+- 日本語：トップ／`articles/ai-tool-guide.html`／`articles/miricanvas.html`／`about.html`
+- 英語：`en/`／`en/articles/best-ai-tools.html`／`en/articles/elevenlabs-vs-murf.html`／`en/about.html`
+- SEO：canonical／hreflang／OGP／Twitter Card／JSON-LD（WebSite・Article・FAQPage）／sitemap×2／robots
+- GSC：所有権確認済み（HTMLメタタグ）／サイトマップ送信済み
+- Bing：既存アカウントに旧サイトが選択されたままのため、新サイト追加は未完了
 
 ## 調査の結論（要約）
 
